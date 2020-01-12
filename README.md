@@ -2,7 +2,7 @@
 
 init git
 
-git add first.txt
+git add first.txt / git rm second.txt
 
 git commit
 
