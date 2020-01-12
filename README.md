@@ -1,5 +1,3 @@
-# intro_git
-
 # commands
 
 init git
